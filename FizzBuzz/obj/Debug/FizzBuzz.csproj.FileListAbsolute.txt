@@ -1,0 +1,4 @@
+C:\Projetos\FizzBuzz\FizzBuzz\bin\FizzBuzz.dll
+C:\Projetos\FizzBuzz\FizzBuzz\bin\FizzBuzz.pdb
+C:\Projetos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.dll
+C:\Projetos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
